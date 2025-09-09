@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 💻 Sobre mim
 
 - 🎓 **Graduando em Sistemas de Informação**
 - 📚 **Aprendizado contínuo:** Java e Python desde 2018
