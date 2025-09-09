@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+## 💻 Sobre Mim
 
 Sou um entusiasta de tecnologia em transição de carreira, migrando da área de vigilância para desenvolvimento de software. Com experiência anterior como analista de dados e empreendedor, trago uma visão prática e resolução creativa de problemas. Atualmente foco em me especializar em programação através de estudos contínuos e projetos práticos.
 
