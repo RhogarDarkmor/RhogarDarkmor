@@ -1,4 +1,4 @@
-# Matheus Camargo (aka Rhogar Darkmor) 👋
+# Matheus Camargo (aka Rhogar Darkmor)
 
 **Desenvolvedor em formação | Graduando em Sistemas de Informação**  
 *Apaixonado por tecnologia e soluções criativas*
@@ -112,4 +112,4 @@
 
 ---
 
-⭐ *"A persistência é o caminho do êxito." - Charles Chaplin*
+*"A persistência é o caminho do êxito." - Charles Chaplin*
