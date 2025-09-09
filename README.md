@@ -7,7 +7,7 @@ Apaixonado por tecnologia e soluções criativas
 
 ## Sobre mim
 
-- **Aprendizado contínuo:** Ruby on Rails desde 2021
+- **Aprendizado contínuo:** Java e Python desde 2018
 - **Outros:** Entusiasta de metodologias ágeis, usuário de Visual Studio Code, trabalho em equipe
 
 ---
