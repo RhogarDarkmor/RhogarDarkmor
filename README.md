@@ -39,7 +39,7 @@ Apaixonado por tecnologia e soluções criativas
 
 | Commits | Repositórios | Seguidores | Seguindo |
 |---------|--------------|------------|----------|
-| **116** | **9**        | **6**      | **12**   |
+| **56** | **4**        | **6**      | **12**   |
 
 ### Linguagens Mais Usadas
 
