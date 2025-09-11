@@ -60,6 +60,18 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
 - Lógica de programação: praticando com desafios
 - String em Python: extraindo informações de uma URL
 
+## Cursos concluidos
+
+<div align="center">
+  <img src="imagens/comecando-programacao-carreira-primeiros-passos.png" width="120" alt="Começando Programação Carreira">
+  <img src="imagens/git-github-compartilhando-colaborando-projetos.png" width="120" alt="Git e GitHub Compartilhando Projetos">
+  <img src="imagens/html-css-ambiente-arquivos-tags.png" width="120" alt="HTML CSS Ambiente Arquivos Tags">
+  <img src="imagens/logica-programacao-mergulhe-programacao-javascript.png" width="120" alt="Lógica Programação JavaScript">
+  <img src="imagens/python-aplicando-orientacao-objetos.png" width="120" alt="Python Orientação a Objetos">
+  <img src="imagens/string-python-extraindo-informacoes-url.png" width="120" alt="String Python Extraindo Informações URL">
+</div>
+
+
 ---
 
 ## 🗺️ Minha Jornada
