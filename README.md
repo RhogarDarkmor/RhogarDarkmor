@@ -105,7 +105,7 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
 | Estatística | Valor |
 |-------------|-------|
 | 📦 Repositórios Públicos | 7 |
-| 📝 Commits | 54 |
+| 📝 Commits | 33 |
 | 👥 Seguidores | o |
 | 👣 Seguindo | o |
 
