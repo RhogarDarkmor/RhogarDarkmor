@@ -62,51 +62,68 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
 
 ## Cursos concluidos
 
+### 🚀 Carreira e Fundamentos
 <div align="center">
-  <a href="https://cursos.alura.com.br/course/comecando-programacao-carreira-primeiros-passos">
+  <a href="https://cursos.alura.com.br/course/comecando-programacao-carreira-primeiros-passos" target="_blank">
     <img src="./imagens/comecando-programacao-carreira-primeiros-passos.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos">
-    <img src="./imagens/git-github-compartilhando-colaborando-projetos.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo">
-    <img src="./imagens/git-github-dominando-controle-versao-codigo.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags">
-    <img src="./imagens/html-css-ambiente-arquivos-tags.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox">
-    <img src="./imagens/html-css-classes-posicionamento-flexbox.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas">
+</div>
+
+### 🎯 Lógica de Programação
+<div align="center">
+  <a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas" target="_blank">
     <img src="./imagens/logica-programacao-funcoes-listas.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">
+  <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank">
     <img src="./imagens/logica-programacao-mergulhe-programacao-javascript.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios">
+  <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank">
     <img src="./imagens/logica-programacao-praticando-desafios.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/python-aplicando-boas-praticas-pep-8">
-    <img src="./imagens/python-aplicando-boas-praticas-pep-8.png" width="120">
+</div>
+
+### 🌐 HTML & CSS
+<div align="center">
+  <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags" target="_blank">
+    <img src="./imagens/html-css-ambiente-arquivos-tags.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/python-aplicando-orientacao-objetos">
-    <img src="./imagens/python-aplicando-orientacao-objetos.png" width="120">
+  <a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox" target="_blank">
+    <img src="./imagens/html-css-classes-posicionamento-flexbox.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api">
-    <img src="./imagens/python-avance-orientacao-objetos-consuma-api.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/python-construindo-sistemas-eficientes-solid-design-patterns">
-    <img src="./imagens/python-construindo-sistemas-eficientes-solid-design-patterns.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao">
+</div>
+
+### 🐍 Python
+<div align="center">
+  <a href="https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao" target="_blank">
     <img src="./imagens/python-crie-sua-primeira-aplicacao.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios">
+  <a href="https://cursos.alura.com.br/course/python-aplicando-orientacao-objetos" target="_blank">
+    <img src="./imagens/python-aplicando-orientacao-objetos.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/python-avance-orientacao-objetos-consuma-api" target="_blank">
+    <img src="./imagens/python-avance-orientacao-objetos-consuma-api.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url" target="_blank">
+    <img src="./imagens/string-python-extraindo-informacoes-url.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/python-aplicando-boas-praticas-pep-8" target="_blank">
+    <img src="./imagens/python-aplicando-boas-praticas-pep-8.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/python-construindo-sistemas-eficientes-solid-design-patterns" target="_blank">
+    <img src="./imagens/python-construindo-sistemas-eficientes-solid-design-patterns.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios" target="_blank">
     <img src="./imagens/python-tdd-explorando-testes-unitarios.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url">
-    <img src="./imagens/string-python-extraindo-informacoes-url.png" width="120">
+</div>
+
+### 🔧 Git & GitHub
+<div align="center">
+  <a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos" target="_blank">
+    <img src="./imagens/git-github-compartilhando-colaborando-projetos.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/git-github-dominando-controle-versao-codigo" target="_blank">
+    <img src="./imagens/git-github-dominando-controle-versao-codigo.png" width="120">
   </a>
 </div>
 
