@@ -173,12 +173,14 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
 
 <div align="center">
 
-| Estatística | Valor |
-|-------------|-------|
+| 📊 Estatística | 🔢 Valor |
+|----------------|----------|
 | 📦 Repositórios Públicos | 8 |
-| 📝 Commits | 37 |
-| 👥 Seguidores | o |
-| 👣 Seguindo | o |
+| 📝 Gists Públicos | 0 |
+| 👥 Seguidores | 0 |
+| � Seguindo | 0 |
+| 📅 Conta Criada | Agosto 2025 |
+| ⭐ Repositórios Starred | Dinâmico |
 
 </div>
 
