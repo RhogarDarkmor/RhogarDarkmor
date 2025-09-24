@@ -77,6 +77,9 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
   <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/logica-programacao-mergulhe-programacao-javascript.png" width="120">
   </a>
+  <a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas" target="_blank" rel="noopener noreferrer">
+    <img src="./imagens/javascript-web-paginas-dinamicas.png" width="120">
+  </a>
   <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/logica-programacao-praticando-desafios.png" width="120">
   </a>
