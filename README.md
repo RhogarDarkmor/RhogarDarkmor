@@ -60,43 +60,30 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
 - Lógica de programação: praticando com desafios
 - String em Python: extraindo informações de uma URL
 
-## Cursos concluidos
+## 🎓 Certificações e Cursos
 
-### 🚀 Carreira e Fundamentos
+### 🏆 Formações Alura Concluídas
 <div align="center">
+  
+**🚀 Formação Iniciante em Programação** - *Concluída em 20/08/2025*
+  
   <a href="https://cursos.alura.com.br/course/comecando-programacao-carreira-primeiros-passos" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/comecando-programacao-carreira-primeiros-passos.png" width="120">
   </a>
-</div>
-
-### 🎯 Lógica de Programação
-<div align="center">
   <a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/logica-programacao-funcoes-listas.png" width="120">
   </a>
   <a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/logica-programacao-mergulhe-programacao-javascript.png" width="120">
   </a>
-  <a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas" target="_blank" rel="noopener noreferrer">
-    <img src="./imagens/javascript-web-paginas-dinamicas.png" width="120">
-  </a>
   <a href="https://cursos.alura.com.br/course/logica-programacao-praticando-desafios" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/logica-programacao-praticando-desafios.png" width="120">
   </a>
-</div>
 
-### 🌐 HTML & CSS
-<div align="center">
-  <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags" target="_blank" rel="noopener noreferrer">
-    <img src="./imagens/html-css-ambiente-arquivos-tags.png" width="120">
-  </a>
-  <a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox" target="_blank" rel="noopener noreferrer">
-    <img src="./imagens/html-css-classes-posicionamento-flexbox.png" width="120">
-  </a>
-</div>
+---
 
-### 🐍 Python
-<div align="center">
+**🐍 Formação Python com Orientação a Objetos** - *Concluída em 05/09/2025*
+  
   <a href="https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/python-crie-sua-primeira-aplicacao.png" width="120">
   </a>
@@ -109,6 +96,26 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
   <a href="https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/string-python-extraindo-informacoes-url.png" width="120">
   </a>
+
+</div>
+
+### 📚 Cursos Complementares
+
+#### 🌐 Desenvolvimento Web
+<div align="center">
+  <a href="https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags" target="_blank" rel="noopener noreferrer">
+    <img src="./imagens/html-css-ambiente-arquivos-tags.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox" target="_blank" rel="noopener noreferrer">
+    <img src="./imagens/html-css-classes-posicionamento-flexbox.png" width="120">
+  </a>
+  <a href="https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas" target="_blank" rel="noopener noreferrer">
+    <img src="./imagens/javascript-web-paginas-dinamicas.png" width="120">
+  </a>
+</div>
+
+#### 🐍 Python Avançado
+<div align="center">
   <a href="https://cursos.alura.com.br/course/python-aplicando-boas-praticas-pep-8" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/python-aplicando-boas-praticas-pep-8.png" width="120">
   </a>
@@ -120,7 +127,7 @@ Sou um entusiasta de tecnologia em transição de carreira, migrando da área de
   </a>
 </div>
 
-### 🔧 Git & GitHub
+#### 🔧 Ferramentas de Desenvolvimento
 <div align="center">
   <a href="https://cursos.alura.com.br/course/git-github-compartilhando-colaborando-projetos" target="_blank" rel="noopener noreferrer">
     <img src="./imagens/git-github-compartilhando-colaborando-projetos.png" width="120">
