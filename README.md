@@ -125,14 +125,6 @@ Ferramenta Python avançada para teste e simulação de visualizações em strea
 
 ---
 
-### Outros Projetos
-[![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=RhogarDarkmor&repo=readme-generator&theme=dark)](https://github.com/RhogarDarkmor/readme-generator)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=RhogarDarkmor&repo=python-projects&theme=dark)](https://github.com/RhogarDarkmor/python-projects)
-
-*Mais projetos em desenvolvimento...*
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
