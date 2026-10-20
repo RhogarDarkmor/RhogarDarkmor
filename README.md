@@ -1,4 +1,4 @@
-# Matheus Camargo (Rhogar Darkmor) 👨‍💻
+# Matheus Camargo (Rhogar) 👨‍💻
 
 ### Desenvolvedor em Formação | Sistemas de Informação
 *Transição de carreira para programação*
